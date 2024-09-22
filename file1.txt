@@ -1,0 +1,16 @@
+ubuntu     78055       1  0 07:37 ?        00:00:00 /usr/lib/systemd/systemd --user
+ubuntu     78057   78055  0 07:37 ?        00:00:00 (sd-pam)
+root       78871   51277  0 10:19 ?        00:00:00 sshd: ubuntu [priv]
+root       78873   51277  0 10:19 ?        00:00:00 sshd: ubuntu [priv]
+ubuntu     78972   78871  0 10:19 ?        00:00:00 sshd: ubuntu@pts/0
+ubuntu     78973   78972  0 10:19 pts/0    00:00:00 -bash
+ubuntu     79032   78873  0 10:19 ?        00:00:00 sshd: ubuntu@notty
+ubuntu     79033   79032  0 10:19 ?        00:00:00 /usr/lib/openssh/sftp-server
+root       79094   51277  0 10:41 ?        00:00:00 sshd: ubuntu [priv]
+root       79096   51277  0 10:41 ?        00:00:00 sshd: ubuntu [priv]
+ubuntu     79153   79094  0 10:41 ?        00:00:00 sshd: ubuntu@pts/1
+ubuntu     79154   79153  0 10:41 pts/1    00:00:00 -bash
+ubuntu     79213   79096  0 10:41 ?        00:00:00 sshd: ubuntu@notty
+ubuntu     79214   79213  0 10:41 ?        00:00:00 /usr/lib/openssh/sftp-server
+ubuntu     79236   79154  0 10:48 pts/1    00:00:00 ps -ef
+ubuntu     79237   79154  0 10:48 pts/1    00:00:00 grep --color=auto ubuntu

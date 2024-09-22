@@ -1,0 +1,16 @@
+--2024-07-30 11:26:38--  https://drive.google.com/uc?id=1zO8ekHWx9U7mrbx_0Hoxxu6od7uxJqWw
+Resolving drive.google.com (drive.google.com)... 172.253.122.100, 172.253.122.101, 172.253.122.102, ...
+Connecting to drive.google.com (drive.google.com)|172.253.122.100|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://drive.usercontent.google.com/download?id=1zO8ekHWx9U7mrbx_0Hoxxu6od7uxJqWw [following]
+--2024-07-30 11:26:38--  https://drive.usercontent.google.com/download?id=1zO8ekHWx9U7mrbx_0Hoxxu6od7uxJqWw
+Resolving drive.usercontent.google.com (drive.usercontent.google.com)... 142.250.31.132, 2607:f8b0:4004:c17::84
+Connecting to drive.usercontent.google.com (drive.usercontent.google.com)|142.250.31.132|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 17261 (17K) [application/octet-stream]
+Saving to: ‘uc?id=1zO8ekHWx9U7mrbx_0Hoxxu6od7uxJqWw’
+
+uc?id=1zO8ekHWx9U7mrbx_0Hoxxu6od7uxJqWw   0%[                                                                              ]       0  --.-KB/s               uc?id=1zO8ekHWx9U7mrbx_0Hoxxu6od7uxJqWw 100%[=============================================================================>]  16.86K  --.-KB/s    in 0.002s  
+
+2024-07-30 11:26:40 (8.46 MB/s) - ‘uc?id=1zO8ekHWx9U7mrbx_0Hoxxu6od7uxJqWw’ saved [17261/17261]
+

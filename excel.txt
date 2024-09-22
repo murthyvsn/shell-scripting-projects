@@ -1,0 +1,9 @@
+Id is 1
+Name is Krish
+Item is House
+Id is 2
+Name is Murthy
+Item is Car
+Id is 3
+Name is Sai
+Item is Plot
